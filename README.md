@@ -1,2 +1,6 @@
 # error_propagation
-Error Propagation Calculations
+Error Propagation calculations using Python/Jupyter.
+
+## Dependencies
+- Sympy
+- NumPy
